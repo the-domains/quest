@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3620072
+color:
+  saturation: 0.1839785
+  lightness: 0.6438868
+  brandStrength: 0.4677419
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#00186E'
+    - '#708FB3'
+    - '#D0D7E1'
+  rhythmicContrast: 0.4142706
+name: Quest
