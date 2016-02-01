@@ -1,9 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3620072
 color:
   saturation: 0.1839785
+  brandStrength: 0.2473118
   lightness: 0.6438868
-  brandStrength: 0.4677419
   brandColors:
     - '#FFFFFF'
     - '#000000'
@@ -11,4 +22,5 @@ color:
     - '#708FB3'
     - '#D0D7E1'
   rhythmicContrast: 0.4142706
+layout_spectrum: 1
 name: Quest
