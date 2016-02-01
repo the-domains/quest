@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Quest]]></title>
         <description><![CDATA[Quest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 07:15:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 07:24:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fa6a7ac-1cd9-482a-9fc2-a37b1bba1077.jpg">]]></description>
+            <link>https://thegrid.ai/quest/1b47cd9e-3511-4d5c-ad9e-6eeaa4e99600/index.html</link>
+            <guid isPermaLink="false">1b47cd9e-3511-4d5c-ad9e-6eeaa4e99600</guid>
+            <pubDate>Mon, 01 Feb 2016 07:24:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reputation Management Online]]></title>
-            <description><![CDATA[<article><h1>Reputation Management Online</h1><p>Reputation Online is a reflection of how friends, family and strangers see us and what they think about us and the values we represent. Our actions define us and in today's market place its important to stand out and provide as much value as possible to our customers. To act with honor and  integrity is imperative in our quest to flourish and grow in the marketplace. So protecting your reputation is invaluable and its worth implementing systems and strategies to protect your Brand and Reputation. It all starts with monitoring what is being said about us through review sites and to act and respond to praise or critique. We also need to actively encourage our current customers to speak up and provide feedback about our services for others to see. Happy customers will encourage friends and family to use your services too, and studies have confirmed that people that read positive online reviews respond to them the same as if referred by a friend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49b98700b5c84a7b5150e31d9bad51ef858d5be5.jpg"></article>]]></description>
-            <link>undefinedreputation-management-online/index.html</link>
+            <description><![CDATA[<article><h1>Reputation Management Online</h1><p>Reputation Online is a reflection of how friends, family and strangers see us and what they think about us and the values we represent. Our actions define us and in today's market place its important to stand out and provide as much value as possible to our customers. To act with honor and  integrity is imperative in our quest to flourish and grow in the marketplace. So protecting your reputation is invaluable and its worth implementing systems and strategies to protect your Brand and Reputation. It all starts with monitoring what is being said about us through review sites and to act and respond to praise or critique. We also need to actively encourage our current customers to speak up and provide feedback about our services for others to see. Happy customers will encourage friends and family to use your services too, and studies have confirmed that people that read positive online reviews respond to them the same as if referred by a friend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ba1ceaf8a894dc80d1b93c92381eb703342861.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quest/reputation-management-online/index.html</link>
             <guid isPermaLink="false">84ed96ed-7728-475c-b5cf-845d1ea827e6</guid>
             <pubDate>Mon, 01 Feb 2016 07:13:37 GMT</pubDate>
         </item>
