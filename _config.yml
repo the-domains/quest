@@ -1,41 +1,41 @@
-name: Quest
-favicon: null
-layout_spectrum: 0.50194
-typography_spectrum: 0.3620072
 title: QUEST
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.4375
+  brandStrength: 0.75
+  rhythmicContrast: 0.25
   brandColors:
     - '#014f9a'
     - '#86bce2'
     - '#f6d400'
     - '#667208'
     - '#9e0017'
-  brandStrength: 0.75
   lightness: 1
-  saturation: 0.4375
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Quest
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3620072
+layout_spectrum: 0.5483871
